@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="create_database">Create Database</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="get_contacts">Get Contacts</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="id_to_delete">ID to Delete</string>
+    <string name="delete_database">Delete Database</string>
+</resources>
